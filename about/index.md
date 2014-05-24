@@ -5,6 +5,8 @@ title: 关于
 
 ---
 
+![](/resources/img/about.jpg)
+
 攻城狮一头，目前从Java Web开发和SEO技术研发。     
 
 倾向于技术带动业务，最终实现均衡发展。            
