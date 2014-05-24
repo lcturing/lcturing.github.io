@@ -1,4 +1,9 @@
 ---
+layout: default
+title: 关于
+---
+
+---
 
 攻城狮一头，目前从Java Web开发和SEO技术研发。     
 
